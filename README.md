@@ -195,6 +195,15 @@ structured forensic methodology, not through knowledge of what was planted.
 
 ---
 
+## 📄 Incident Response Report
+A formal DFIR report following the NIST SP 800-61 incident response lifecycle 
+is included in this repository: [`DFIR_Incident_Response_Report.docx`](./DFIR_Incident_Response_Report.docx)
+
+The report covers all phases of the investigation including executive summary, 
+incident timeline, Volatility memory analysis findings, MITRE ATT&CK mapping, 
+IOC index, and documented analysis limitations.
+---
+
 ## 🛠️ Tools Used
 
 | 🔧 Tool | 📌 Purpose |
